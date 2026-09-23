@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm bocchisad
+# I'm bocchisad
 
 ---
 
