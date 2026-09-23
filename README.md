@@ -4,7 +4,7 @@
 
 ---
 
-ML/CV engineer · Software Engineer · Data Analyst · student
+ML/CV engineer · Software Engineer · Data Analyst · student 〜nya
 
 ---
 
