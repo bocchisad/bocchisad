@@ -13,6 +13,7 @@
 * **Education:** Student focused on ML, computer vision, and software engineering.
 * **Focus:** Real-time CV (MediaPipe / OpenCV), Python tooling, and small full-stack products.
 * **Also building:** Go networking, FastAPI services, WebRTC / P2P apps.
+* **Achievements:** **AI Challenge** — Participant in the Main Stage of the international youth AI competition.
 
 ---
 
