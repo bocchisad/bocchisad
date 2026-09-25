@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/vVrjiVz5htgAAAAC/israel-astolfo.gif" width="100%" style="height: auto; border-radius: 8px;" alt="Header Banner"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ5amV0OG14bHN2OHk4dnVsbm8yaWp6cmY1c2o5YmFxMXJ0MmR6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ExWf2wZQKstKaUOpuM/giphy.gif" width="100%" style="height: auto; border-radius: 8px;" alt="Header Banner"/>
   <br/><br/>
   <a href="https://github.com/bocchisad">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+bocchisad;ML+%2F+CV+Engineer;Software+%7C+Data+%7C+Student" alt="Typing SVG" />
