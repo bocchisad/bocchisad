@@ -17,7 +17,7 @@
 
 ---
 
-### Featured project
+### Featured projects
 
 **[cv-desk](https://github.com/bocchisad/cv-desk)** — control your Mac desk with hand gestures.
 
@@ -26,6 +26,14 @@ macOS 13+ menu-bar app powered by **MediaPipe Hands**: play/pause, volume, Space
 [![Repo](https://img.shields.io/badge/GitHub-cv--desk-181717?style=flat-square&logo=github)](https://github.com/bocchisad/cv-desk)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/bocchisad/cv-desk)
 [![Platform](https://img.shields.io/badge/macOS-13%2B-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/bocchisad/cv-desk)
+
+**[bin2img-classifier](https://github.com/bocchisad/bin2img-classifier)** — binary visualizer & malware-family classifier.
+
+Turns executables into grayscale byteplots and thermal entropy heatmaps, extracts GLCM/LBP + section features, and classifies families with **CatBoost** — FastAPI UI, risk score / rules, history, Docker & CI.
+
+[![Repo](https://img.shields.io/badge/GitHub-bin2img--classifier-181717?style=flat-square&logo=github)](https://github.com/bocchisad/bin2img-classifier)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/bocchisad/bin2img-classifier)
+[![Stack](https://img.shields.io/badge/CatBoost%20%2B%20FastAPI-009688?style=flat-square)](https://github.com/bocchisad/bin2img-classifier)
 
 ---
 
@@ -40,7 +48,7 @@ macOS 13+ menu-bar app powered by **MediaPipe Hands**: play/pause, volume, Space
 
 **[video-downloader](https://github.com/bocchisad/video-downloader)** — web video downloader (Express + yt-dlp backend, static frontend).
 
-**[steam-price-parcer-api](https://github.com/bocchisad/steam-price-parcer-api)** — Steam price tracker API (FastAPI + SQLite): history, auto-refresh, Docker & CI.
+**[steam-price-parcer-api](https://github.com/bocchisad/steam-price-parcer-api)** — FastAPI Steam price tracker / history API.
 
 ---
 
