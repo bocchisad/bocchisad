@@ -40,7 +40,7 @@ macOS 13+ menu-bar app powered by **MediaPipe Hands**: play/pause, volume, Space
 
 **[video-downloader](https://github.com/bocchisad/video-downloader)** — web video downloader (Express + yt-dlp backend, static frontend).
 
-**[steam-price-parcer-api](https://github.com/bocchisad/steam-price-parcer-api)** — FastAPI Steam price tracker / history API.
+**[steam-price-parcer-api](https://github.com/bocchisad/steam-price-parcer-api)** — Steam price tracker API (FastAPI + SQLite): history, auto-refresh, Docker & CI.
 
 ---
 
