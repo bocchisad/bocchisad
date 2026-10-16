@@ -2,7 +2,7 @@
   <img src="./banner.webp" width="100%" style="height: auto; border-radius: 8px;" alt="Header Banner"/>
   <br/><br/>
   <a href="https://github.com/bocchisad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+bocchisad;ML+%2F+CV+Engineer;Software+%7C+Data+%7C+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+bocchisad;ML+%2F+CV+%2B+Go+tools;Software+%7C+Data+%7C+Student" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 * **Education:** High school student focused on ML, computer vision, and software engineering.
 * **Focus:** Real-time CV (MediaPipe / OpenCV), Python tooling, and small full-stack products.
-* **Also building:** Go networking, FastAPI services, WebRTC / P2P apps.
+* **Also building:** Go networking & P2P — [`screen-stream`](https://github.com/bocchisad/screen-stream), [`bridge`](https://github.com/bocchisad/bridge); FastAPI services; WebRTC apps.
 * **Achievements:** **AI Challenge** — Participant in the Main Stage of the international youth AI competition.
 
 ---
@@ -35,9 +35,19 @@ Turns executables into grayscale byteplots and thermal entropy heatmaps, extract
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/bocchisad/bin2img-classifier)
 [![Stack](https://img.shields.io/badge/CatBoost%20%2B%20FastAPI-009688?style=flat-square)](https://github.com/bocchisad/bin2img-classifier)
 
+**[screen-stream](https://github.com/bocchisad/screen-stream)** — privacy-preserving low-latency P2P screen capture.
+
+Go + cgo + **pion WebRTC**: DirtyPacket / HW H.264 tracks, local hub (no cloud), TOFU identity pins, optional PII/OCR redaction. Capture via ScreenCaptureKit (macOS), PipeWire/X11 (Linux), DXGI (Windows).
+
+[![Repo](https://img.shields.io/badge/GitHub-screen--stream-181717?style=flat-square&logo=github)](https://github.com/bocchisad/screen-stream)
+[![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/bocchisad/screen-stream)
+[![Stack](https://img.shields.io/badge/WebRTC%20%2B%20P2P-333333?style=flat-square&logo=webrtc&logoColor=white)](https://github.com/bocchisad/screen-stream)
+
 ---
 
 ### Other projects
+
+**[bridge](https://github.com/bocchisad/bridge)** — Mac ↔ Linux file transfer over LAN / optional self-hosted relay (Go, CLI + tray, PIN pairing, E2E TLS).
 
 **[hand-draw](https://github.com/bocchisad/hand-draw)** — air-draw with webcam: MediaPipe Hands + Face, brushes, dual-hand palette, voice, symmetry.  
 [![Demo](https://img.shields.io/badge/Live_demo-Pages-0588C6?style=flat-square)](https://bocchisad.github.io/hand-draw/)
@@ -46,9 +56,9 @@ Turns executables into grayscale byteplots and thermal entropy heatmaps, extract
 
 **[Minelink](https://github.com/bocchisad/Minelink)** — Minecraft LAN tunnel over the internet (Go + WebRTC, WS relay fallback).
 
-**[video-downloader](https://github.com/bocchisad/video-downloader)** — web video downloader (Express + yt-dlp backend, static frontend).
-
 **[steam-price-parcer-api](https://github.com/bocchisad/steam-price-parcer-api)** — FastAPI Steam price tracker / history API.
+
+**[video-downloader](https://github.com/bocchisad/video-downloader)** — web video downloader (Express + yt-dlp backend, static frontend).
 
 ---
 
@@ -74,6 +84,7 @@ Turns executables into grayscale byteplots and thermal entropy heatmaps, extract
 
 **Tools & OS**
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
