@@ -26,6 +26,7 @@ macOS 13+ menu-bar app powered by **MediaPipe Hands**: play/pause, volume, Space
 [![Repo](https://img.shields.io/badge/GitHub-cv--desk-181717?style=flat-square&logo=github)](https://github.com/bocchisad/cv-desk)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/bocchisad/cv-desk)
 [![Platform](https://img.shields.io/badge/macOS-13%2B-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/bocchisad/cv-desk)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/bocchisad/badge.svg)](https://hub.xerj.org/contributors/bocchisad)
 
 **[bin2img-classifier](https://github.com/bocchisad/bin2img-classifier)** — binary visualizer & malware-family classifier.
 
